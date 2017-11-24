@@ -90,4 +90,16 @@
         xsi:type="archimate:ApplicationFunction"
         href="ApplicationFunction_c232a569-ddd8-40f6-a21b-4422b2fcee70.xml#c232a569-ddd8-40f6-a21b-4422b2fcee70"/>
   </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="a98d5d9c-375c-4b42-a77d-19246b7d8f73">
+    <bounds
+        x="504"
+        y="348"
+        width="217"
+        height="73"/>
+    <archimateElement
+        xsi:type="archimate:Node"
+        href="Node_e96a50fa-bc08-40a1-8d2d-0b4d406fd000.xml#e96a50fa-bc08-40a1-8d2d-0b4d406fd000"/>
+  </children>
 </archimate:ArchimateDiagramModel>
